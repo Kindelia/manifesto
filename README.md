@@ -36,7 +36,7 @@ of equivalence is limited, and there are impactiful differences.
 In 1983, Stephen Wolfram introduced the Rule 110, an elementary cellular automaton that has been shown to be as capable
 as both. Wolfram argues that this model is of fundamental importance for math and physics, and that a new kind of science should emerge from
 its study. These claims were met with harsh scepticism; after all, if all models are equivalent, what is the point?
-Yet, we've just stablished that, while equal in capacity, different models result in different practical outcomes.
+Yet, we've just established that, while equal in capacity, different models result in different practical outcomes.
 Perhaps there isn't a new branch of science to emerge from the study of alternative models of computation, but what
 about the design of processors and programming languages?
 
