@@ -36,7 +36,7 @@ of equivalence is limited, and there are impactful differences.
 In 1983, Stephen Wolfram introduced the Rule 110, an elementary cellular automaton that has been shown to be as capable
 as both. Wolfram argues that this model is of fundamental importance for math and physics, and that a new kind of science should emerge from
 its study. These claims were met with harsh skepticism; after all, if all models are equivalent, what is the point?
-Yet, we've just stablished that, while equal in capacity, different models result in different practical outcomes.
+Yet, we've just established that, while equal in capacity, different models result in different practical outcomes.
 Perhaps there isn't a new branch of science to emerge from the study of alternative models of computation, but what
 about the design of processors and programming languages?
 
@@ -47,7 +47,7 @@ is generally considered hard, and programmers still write sequential code by def
 to the procedural paradigm. Global state, mutable arrays and loops generate an explosion of possible execution paths,
 edge cases and off-by-one errors that make absolute security all but impossible. Even highly audited code, such as
 OpenSSL, is often compromised by out-of-bounds exploits. The functional paradigm handles both issues much better: there
-is an enourmous amount of inherent parallelism on functional programs, and logic-based type systems make entire classes
+is an enormous amount of inherent parallelism on functional programs, and logic-based type systems make entire classes
 of bugs unrepresentable. But if that is the case, then why functional programs are still mostly single-threaded, and
 bug-ridden? And why isn't the functional paradigm more prevalent?
 
