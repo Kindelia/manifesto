@@ -36,7 +36,7 @@ of equivalence is limited, and there are impactful differences.
 In 1983, Stephen Wolfram introduced the Rule 110, an elementary cellular automaton that has been shown to be as capable
 as both. Wolfram argues that this model is of fundamental importance for math and physics, and that a new kind of science should emerge from
 its study. These claims were met with harsh skepticism; after all, if all models are equivalent, what is the point?
-Yet, we've just stablished that, while equal in capacity, different models result in different practical outcomes.
+Yet, we've just established that, while equal in capacity, different models result in different practical outcomes.
 Perhaps there isn't a new branch of science to emerge from the study of alternative models of computation, but what
 about the design of processors and programming languages?
 
@@ -48,7 +48,7 @@ to the procedural paradigm. Global state, mutable arrays and loops generate an e
 edge cases and off-by-one errors that make absolute security all but impossible. Even highly audited code, such as
 OpenSSL, is often compromised by out-of-bounds exploits. The functional paradigm handles both issues much better: there
 is an enourmous amount of inherent parallelism on functional programs, and logic-based type systems make entire classes
-of bugs unrepresentable. But if that is the case, then why functional programs are still mostly single-threaded, and
+of bugs unrepresentable. But if that is the case, then why are functional programs still mostly single-threaded, and
 bug-ridden? And why isn't the functional paradigm more prevalent?
 
 A strong factor, we argue, is performance issues. As much as the Turing Machine, and, thus, the procedural paradigm as a
@@ -79,7 +79,7 @@ Under certain point of view, one could argue that both the Turing Machine and th
 of this fundamental model, caused by human creativity, due to our historical intuitions regarding machines and
 mathematics. Perhaps machines and substitutions aren't as fundamental as we think, and some alien civilization has
 developed all its mathematical theories and computers based on annihilation and commutation, with no references to the
-Lambda Calculus, or the Turing Machine. 
+Lambda Calculus, or the Turing Machine.
 
 We, at the Kindelia Foundation, hold the view that Interaction Combinators are a more fundamental model of computation,
 and, consequently, that computers, processors and programming languages inspired by them would offer tangible benefits
